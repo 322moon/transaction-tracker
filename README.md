@@ -1,2 +1,2 @@
 # transaction-tracker
-Console Java transaction tracking system
+Console Java transaction tracking system.
